@@ -1,0 +1,2 @@
+content     exemple    chrome/content/
+overlay chrome://browser/content/browser.xul chrome://exemple/content/exemple.xul
